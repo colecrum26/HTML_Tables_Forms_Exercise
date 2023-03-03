@@ -1,5 +1,10 @@
 table {
     border: solid;
+    background-color: bisque;
+    padding: 8px;
+}
+th {
+    margin: 8px;
 }
 
 td {
