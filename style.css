@@ -4,9 +4,10 @@ table {
     padding: 8px;
 }
 th {
-    margin: 8px;
+    padding: 8px;
 }
 
 td {
     text-align: center;
+    padding: 4px;
 }
